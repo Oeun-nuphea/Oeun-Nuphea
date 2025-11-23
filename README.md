@@ -9,6 +9,5 @@ Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | Docker | RabbitM
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logo=kubernetes&logoColor=white)
 
