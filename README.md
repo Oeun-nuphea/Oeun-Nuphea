@@ -1,4 +1,4 @@
-### Hi, I'm Ah Cherm 👋
+### Hi, I'm Nuphea 👋
 Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | Docker | RabbitMQ | Kafka | Microservices
 
 #### Tech Stack
