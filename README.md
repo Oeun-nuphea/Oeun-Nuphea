@@ -7,7 +7,6 @@ Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | MySQL | Docker |
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-F5A623?style=for-the-badge&logo=containerd&logoColor=white)
 
 
