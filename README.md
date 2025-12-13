@@ -17,3 +17,6 @@ Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | MySQL | Docker |
 #### DevOps / Messaging
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+#### CI/CD
+![CI](https://github.com/nuphea/your-repo/actions/workflows/ci-cd.yml/badge.svg)
