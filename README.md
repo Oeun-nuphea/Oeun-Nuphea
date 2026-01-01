@@ -1,5 +1,5 @@
 ### Hi, I'm Nuphea 👋
-Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | MySQL | Docker | RabbitMQ | Microservices
+Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | MySQL | Docker | Microservices
 
 #### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -14,9 +14,8 @@ Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | MySQL | Docker |
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### DevOps / Messaging Basic Understanding
+#### DevOps / Basic Understanding
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 #### CI/CD Basic Understanding
 ![CI/CD](https://img.shields.io/github/actions/workflow/status/nuphea/your-repo/ci-cd.yml?style=for-the-badge&logo=github&logoColor=white)
