@@ -46,13 +46,6 @@ I leverage the strengths of different database paradigms depending on the servic
 
 ---
 
-### 📊 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuphea&show_icons=true&theme=tokyonight&count_private=true" alt="nuphea's Github Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuphea&layout=compact&theme=tokyonight&hide=html,css" alt="nuphea's Top Langs" height="180" />
-</p>
-
----
 
 ### 📫 How to reach me
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ouen-nuphea/)
