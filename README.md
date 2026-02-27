@@ -55,9 +55,9 @@ I leverage the strengths of different database paradigms depending on the servic
 ---
 
 ### 📫 How to reach me
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/your-username)
-- 📧 Send me an email at [your-email@example.com]
-- 🌐 Visit my portfolio: [nuphea.dev](https://nuphea.dev)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ouen-nuphea/)
+- 📧 Send me an email at [nupheaoeun@gmail.com]
+- 🌐 Visit my portfolio: [nuphea.dev]([https://nuphea.dev](https://portfolio-oeun-nuphea.vercel.app/))
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
