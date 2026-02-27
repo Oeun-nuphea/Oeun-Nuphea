@@ -1,52 +1,64 @@
-# 🚀 Event-Driven Microservices Architecture
-### Developed by [Nuphea](https://github.com/nuphea) 👋
-**Fullstack Developer | Node.js | Vue.js | TypeScript | MongoDB | MySQL | Docker**
+# ### Hi, I'm Nuphea 👋
+**Fullstack Developer | Node.js | Vue.js | TypeScript | Microservices Specialist**
+
+<p align="left">
+  <a href="https://github.com/nuphea">
+    <img src="https://komarev.com/ghpvc/?username=nuphea&label=Profile%20views&color=0e75b6&style=flat" alt="nuphea" />
+  </a>
+</p>
+
+---
+
+### 💫 About Me
+- 🔭 I’m currently architecting **Event-Driven Microservices** with high-availability requirements.
+- ⚡ **Backend Expert:** Deeply proficient in **Node.js** and **TypeScript** for building scalable APIs.
+- 💾 **Database Specialist:** Experienced in managing complex data using both **PostgreSQL** (Relational) and **MongoDB** (NoSQL).
+- 🔄 **Event-Driven:** Utilizing **RabbitMQ** for asynchronous communication and system decoupling.
+- 🎨 **Frontend:** Crafting modern, high-performance UIs with **Vue.js**.
 
 ---
 
 <h3 align="center">🛠 Tech Stack ⚛</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" title="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" title="TypeScript" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="50" height="50" title="Express.js" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" title="Docker" />
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" width="50" height="50" title="RabbitMQ" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" title="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" title="Jest" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50" title="GitHub Actions" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" title="Redis" />
 </p>
 
 ---
 
-## 📖 Project Overview
-This project is a production-ready **Event-Driven Microservices** ecosystem. It focuses on decoupling business logic through asynchronous messaging using **RabbitMQ**, ensuring that individual services (Auth, Notes, Bank, etc.) can scale and fail independently without crashing the entire system.
-
-### Key Features:
-- **Asynchronous Communication:** Services interact via Publish/Subscribe patterns.
-- **Database per Service:** Isolated MongoDB/MySQL instances to ensure data sovereignty.
-- **Transactional Consistency:** Implementation of Mongoose sessions for reliable data updates.
-- **Type Safety:** Shared internal libraries for Zod schemas and TypeScript interfaces.
+### 🗄️ Database Expertise & Strategy
+I leverage the strengths of different database paradigms depending on the service needs:
+* **Relational (PostgreSQL):** Expert in schema design, complex joins, and ensuring strict ACID compliance for financial or structured data.
+* **NoSQL (MongoDB):** Specialized in flexible schema design, high-throughput document storage, and horizontal scaling.
+* **Distributed Systems:** Implementing data synchronization patterns across isolated databases using Message Brokers.
 
 ---
 
-## 🏗 System Architecture
+### 📊 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuphea&show_icons=true&theme=tokyonight&count_private=true" alt="nuphea's Github Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuphea&layout=compact&theme=tokyonight&hide=html,css" alt="nuphea's Top Langs" height="180" />
+</p>
 
-```mermaid
-graph TD
-    Client[Vue.js Frontend] --> Gateway[API Gateway / Nginx]
-    Gateway --> AuthSvc[Auth Service]
-    Gateway --> NoteSvc[Note Service]
-    Gateway --> BankSvc[Bank Service]
+---
 
-    AuthSvc -- "User Created Event" --> RMQ[(RabbitMQ)]
-    RMQ -- "Sync User Data" --> NoteSvc
-    RMQ -- "Initialize Wallet" --> BankSvc
+### 📫 How to reach me
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/your-username)
+- 📧 Send me an email at [your-email@example.com]
+- 🌐 Visit my portfolio: [nuphea.dev](https://nuphea.dev)
 
-    subgraph "Databases"
-        AuthDB[(MongoDB)] --- AuthSvc
-        NoteDB[(PostgreSQL/MySQL)] --- NoteSvc
-        BankDB[(MongoDB)] --- BankSvc
-    end
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
