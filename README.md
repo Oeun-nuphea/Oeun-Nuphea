@@ -15,6 +15,7 @@
 - 💾 **Database Specialist:** Experienced in managing complex data using both **PostgreSQL** (Relational) and **MongoDB** (NoSQL).
 - 🔄 **Event-Driven:** Utilizing **RabbitMQ** for asynchronous communication and system decoupling.
 - 🎨 **Frontend:** Crafting modern, high-performance UIs with **Vue.js**.
+- 🚀 **CI/CD:** Familiar with building basic **CI/CD pipelines** using **GitHub Actions** for automated testing, build, and deployment workflows.
 
 ---
 
@@ -46,6 +47,14 @@ I leverage the strengths of different database paradigms depending on the servic
 
 ---
 
+### ⚙️ Basic CI/CD
+I apply foundational CI/CD practices to improve development speed and reliability:
+* **GitHub Actions:** Automating workflows for linting, testing, and build validation.
+* **Dockerized Deployment:** Packaging services consistently across environments.
+* **Branch-Based Workflow:** Supporting safer collaboration through pull request checks and controlled merges.
+* **Continuous Delivery Mindset:** Helping ensure code is always in a deployable state.
+
+---
 
 ### 📫 How to reach me
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ouen-nuphea/)
