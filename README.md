@@ -9,6 +9,9 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-27500A?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-27500A?style=flat-square&logo=react&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-3C3489?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
 <a href="https://github.com/nuphea">
   <img src="https://komarev.com/ghpvc/?username=nuphea&label=Profile%20views&color=0e75b6&style=flat" alt="nuphea" />
@@ -78,6 +81,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" title="AWS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus" />
 </p>
 
 ---
