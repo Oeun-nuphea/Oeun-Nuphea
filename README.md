@@ -7,6 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-0C447C?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0C447C?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-27500A?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-27500A?style=flat-square&logo=react&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-3C3489?style=flat-square&logoColor=white)
 
 <a href="https://github.com/nuphea">
@@ -61,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" title="Vue 3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express" />
   &nbsp;
