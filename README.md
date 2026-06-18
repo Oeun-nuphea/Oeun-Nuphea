@@ -1,114 +1,70 @@
-<div align="center">
-
 # Nuphea
 
-**Fullstack Engineer · building scalable, event-driven systems that hold up in production**
+> Building event-driven systems that stay reliable under load
 
-![Node.js](https://img.shields.io/badge/Node.js-0C447C?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0C447C?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-27500A?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-27500A?style=flat-square&logo=react&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-3C3489?style=flat-square&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-<a href="https://github.com/nuphea">
-  <img src="https://komarev.com/ghpvc/?username=nuphea&label=Profile%20views&color=0e75b6&style=flat" alt="nuphea" />
-</a>
-
-</div>
+Full-stack engineer focused on scalable architecture, production resilience, and clean distributed systems. Based in Cambodia, building with Node.js, TypeScript, and infrastructure that doesn't surprise you at 3 AM.
 
 ---
 
-## WHAT I BUILD
+## 🔧 What I focus on
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔵 Event-driven microservices</h3>
-      <p>Decoupled services with RabbitMQ pub/sub, dead-letter queues, and isolated databases per service.</p>
-    </td>
-    <td width="50%">
-      <h3>🔵 High-performance APIs</h3>
-      <p>REST APIs with Node.js + Express + TypeScript, Redis caching, and clean architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🟢 Modern frontend UIs</h3>
-      <p>Responsive apps in Vue 3, including a browser-based game built on Canvas API.</p>
-    </td>
-    <td width="50%">
-      <h3>🟣 CI/CD & DevOps</h3>
-      <p>GitHub Actions pipelines, Docker-based environments, and PR-gated delivery.</p>
-    </td>
-  </tr>
-</table>
+**Backend systems**  
+Event-driven microservices with RabbitMQ, fault-tolerant APIs, Redis caching, database optimization (MySQL/TypeORM, MongoDB/Mongoose).
+
+**☁️ Infrastructure**  
+Docker containerization, GitHub Actions CI/CD, AWS EC2 deployments, Prometheus/Grafana observability stacks.
+
+**🎨 Frontend**  
+React/Next.js and Vue 3 for web; Flutter for mobile. Building interfaces that work, not interfaces that impress.
 
 ---
 
-## ENGINEERING PRINCIPLES
+## 💻 Tech I work with
 
-| | | |
-|---|---|---|
-| **Separation of concerns** · Clean, modular architecture | **Event-driven design** · Loosely coupled systems | **Service isolation** · Independent deployability |
-| **Performance-first** · Optimize where it matters | **Fault tolerance** · Design for failure | **Always deployable** · Continuous delivery mindset |
+**Languages & Runtimes**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
----
+**Frameworks & Libraries**  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
-## TECH STACK
+**Databases & Cache**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" title="Vue 3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" title="Express" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" title="Redis" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="40" title="RabbitMQ" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" title="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" title="Grafana" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="40" title="Prometheus" />
-</p>
+**DevOps & Infrastructure**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ---
 
-## CURRENTLY EXPLORING
+## 🚀 Current work
 
-- **Advanced system design & resilience patterns** `████████████░░░░` 75%
-- **Distributed tracing & observability** `█████████░░░░░░░` 55%
-- **Kubernetes & container orchestration** `███████░░░░░░░░░` 40%
+**ltng-chat-api**  
+NestJS backend with WebSocket scalability, dual database support (MySQL + MongoDB), role-based access control, and real-time messaging.
 
----
-
-## GET IN TOUCH
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ouen--nuphea-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouen-nuphea/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-nupheaoeun@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nupheaoeun@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--oeun--nuphea.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-oeun-nuphea.vercel.app/)
+**System design & patterns**  
+Exploring advanced design patterns, distributed tracing, Kubernetes orchestration, and resilience engineering.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+## 📌 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouen-nuphea/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-oeun-nuphea.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nupheaoeun@gmail.com)
+
+---
+
+*Last updated: June 2026*
