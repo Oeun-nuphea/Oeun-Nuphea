@@ -1,70 +1,58 @@
 # Nuphea
 
-> Building event-driven systems that stay reliable under load
-
-Full-stack engineer focused on scalable architecture, production resilience, and clean distributed systems. Based in Cambodia, building with Node.js, TypeScript, and infrastructure that doesn't surprise you at 3 AM.
+Full-stack engineer building event-driven systems that scale. Node.js, TypeScript, distributed systems. Based in Cambodia.
 
 ---
 
-## 🔧 What I focus on
+## Languages
 
-**Backend systems**  
-Event-driven microservices with RabbitMQ, fault-tolerant APIs, Redis caching, database optimization (MySQL/TypeORM, MongoDB/Mongoose).
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 
-**☁️ Infrastructure**  
-Docker containerization, GitHub Actions CI/CD, AWS EC2 deployments, Prometheus/Grafana observability stacks.
+## Frameworks & Libraries
 
-**🎨 Frontend**  
-React/Next.js and Vue 3 for web; Flutter for mobile. Building interfaces that work, not interfaces that impress.
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
 
----
+## Databases & Cache
 
-## 💻 Tech I work with
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 
-**Languages & Runtimes**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+## DevOps & Infrastructure
 
-**Frameworks & Libraries**  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
-**Databases & Cache**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**DevOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=flat&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 
 ---
 
-## 🚀 Current work
+## What I Build
 
-**ltng-chat-api**  
-NestJS backend with WebSocket scalability, dual database support (MySQL + MongoDB), role-based access control, and real-time messaging.
+Event-driven backends that scale. Real-time systems with WebSocket. Database optimization. Caching layers. RBAC. Audit trails. Infrastructure that doesn't surprise you.
 
-**System design & patterns**  
-Exploring advanced design patterns, distributed tracing, Kubernetes orchestration, and resilience engineering.
+**Current:** ltng-chat-api — NestJS + Fastify, Socket.IO with Redis, MongoDB + MySQL, Docker Compose.
 
 ---
 
-## 📌 Let's connect
+## Learning
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouen-nuphea/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-oeun-nuphea.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nupheaoeun@gmail.com)
+Distributed tracing • Event sourcing • CQRS • Resilience patterns • System design at scale
 
 ---
 
-*Last updated: June 2026*
+[LinkedIn](https://www.linkedin.com/in/ouen-nuphea/) · [Portfolio](https://portfolio-oeun-nuphea.vercel.app/) · [Email](mailto:nupheaoeun@gmail.com)
+
+_Phnom Penh, Cambodia_
