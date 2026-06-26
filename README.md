@@ -1,5 +1,3 @@
-# Nuphea
-
 building event-driven systems that scale. Node.js, TypeScript, distributed systems. Based in Cambodia.
 
 ---
