@@ -30,6 +30,6 @@ Distributed tracing • Event sourcing • CQRS • Resilience patterns • Syst
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/ouen-nuphea/) · [Portfolio](https://portfolio-oeun-nuphea.vercel.app/) · [Email](mailto:nupheaoeun@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ouen-nuphea/) · [Portfolio](https://ounnuphea.vercel.app) · [Email](mailto:nupheaoeun@gmail.com)
 
 _Phnom Penh, Cambodia_
