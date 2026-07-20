@@ -1,7 +1,3 @@
-building event-driven systems that scale. Node.js, TypeScript, distributed systems. Based in Cambodia.
-
----
-
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,go,js)](https://skillicons.dev)
 
