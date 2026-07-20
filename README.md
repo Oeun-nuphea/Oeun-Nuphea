@@ -16,20 +16,6 @@ building event-driven systems that scale. Node.js, TypeScript, distributed syste
 
 ---
 
-## What I Build
-
-Event-driven backends that scale. Real-time systems with WebSocket. Database optimization. Caching layers. Infrastructure that doesn't surprise you.
-
-**Current:** NestJS + Fastify, Socket.IO with Redis, MongoDB + MySQL, Docker Compose.
-
----
-
-## Learning
-
-Distributed tracing • Event sourcing • CQRS • Resilience patterns • System design at scale
-
----
-
 [LinkedIn](https://www.linkedin.com/in/ouen-nuphea/) · [Portfolio](https://ounnuphea.vercel.app) · [Email](mailto:nupheaoeun@gmail.com)
 
 _Phnom Penh, Cambodia_
