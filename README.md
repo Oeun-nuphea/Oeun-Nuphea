@@ -12,7 +12,7 @@ building event-driven systems that scale. Node.js, TypeScript, distributed syste
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
 ## DevOps & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,prometheus,grafana,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,aws,prometheus,grafana,rabbitmq)](https://skillicons.dev)
 
 ---
 
