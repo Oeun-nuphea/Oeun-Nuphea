@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
 
 ## DevOps & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,aws,prometheus,grafana,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,aws,prometheus,grafana,rabbitmq,nginx)](https://skillicons.dev)
 
 ---
 
