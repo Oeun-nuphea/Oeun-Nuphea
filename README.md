@@ -1,3 +1,5 @@
+I'm a flexible developer who willing to learn and long life learner
+
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,go,python,java,kotlin,c,cpp,rust)](https://skillicons.dev)
 
